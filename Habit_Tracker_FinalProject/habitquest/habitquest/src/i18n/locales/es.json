@@ -1,0 +1,93 @@
+{
+  "app": { "name": "HabitQuest", "tagline": "Sube de Nivel tu Vida" },
+  "nav": {
+    "dashboard": "Inicio", "habits": "Hábitos", "tasks": "Tareas",
+    "history": "Historial", "calendar": "Calendario", "progress": "Progreso", "profile": "Perfil"
+  },
+  "auth": {
+    "login": "Iniciar Sesión", "register": "Crear Cuenta", "email": "Correo", "password": "Contraseña",
+    "name": "Nombre Completo", "noAccount": "¿No tienes cuenta?", "hasAccount": "¿Ya tienes cuenta?",
+    "signUp": "Registrarse", "signIn": "Iniciar Sesión", "welcome": "¡Bienvenido de vuelta, Héroe!",
+    "createAccount": "Comienza tu misión hoy", "logout": "Cerrar Sesión",
+    "loginSuccess": "¡Bienvenido de vuelta! 🎉", "registerSuccess": "¡Cuenta creada! ¡Comencemos! 🚀"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido de vuelta", "hero": "Héroe",
+    "todayProgress": "Progreso de Hoy", "stats": "Tus Estadísticas",
+    "xp": "XP", "streak": "Racha", "completed": "Completadas", "completionRate": "Tasa Hábitos",
+    "days": "días", "tasks": "tareas", "keepGoing": "¡Sigue así!",
+    "quickActions": "Acciones Rápidas", "recentActivity": "Actividad Reciente",
+    "motivational": "¡Estás en racha! ¡Sigue con el increíble trabajo! 💪"
+  },
+  "habits": {
+    "title": "Mis Hábitos", "subtitle": "Construye rutinas diarias poderosas",
+    "new": "Nuevo Hábito", "complete": "Marcar Hecho", "completed": "¡Hecho Hoy!",
+    "streak": "racha", "noHabits": "Aún no hay hábitos. ¡Crea el primero!",
+    "name": "Nombre del Hábito", "description": "Descripción (opcional)",
+    "frequency": "Frecuencia", "daily": "Diario", "weekly": "Semanal",
+    "color": "Color", "icon": "Ícono", "create": "Crear Hábito",
+    "completedToday": "¡Completado hoy!", "missedYesterday": "Perdido ayer",
+    "suggestion": "💡 Consejo: ¡Empieza pequeño! La consistencia supera a la intensidad.",
+    "modal": { "title": "Crear Nuevo Hábito", "edit": "Editar Hábito" }
+  },
+  "tasks": {
+    "title": "Mis Tareas", "subtitle": "Mantente al día con todo",
+    "new": "Nueva Tarea", "complete": "Completar", "completed": "Completada",
+    "overdue": "Vencida", "dueToday": "Vence Hoy", "upcoming": "Próximas",
+    "noTasks": "¡No hay tareas! ¡Estás al día! 🎉",
+    "name": "Título de Tarea", "description": "Descripción", "dueDate": "Fecha Límite",
+    "priority": "Prioridad", "high": "Alta", "medium": "Media", "low": "Baja",
+    "create": "Agregar Tarea", "all": "Todas", "pending": "Pendientes",
+    "modal": { "title": "Agregar Nueva Tarea", "edit": "Editar Tarea" }
+  },
+  "history": {
+    "title": "Historial de Tareas", "subtitle": "Todas tus victorias completadas",
+    "filter": "Filtrar", "today": "Hoy", "week": "Esta Semana",
+    "month": "Este Mes", "all": "Todo el Tiempo", "search": "Buscar tareas...",
+    "empty": "No se encontraron tareas completadas", "completedOn": "Completada el"
+  },
+  "calendar": {
+    "title": "Vista de Calendario", "subtitle": "Tu viaje de un vistazo",
+    "prev": "Anterior", "next": "Siguiente", "today": "Hoy",
+    "legend": "Leyenda", "completed": "Completado", "missed": "Perdido", "partial": "Parcial",
+    "noActivity": "Sin actividad en este día", "activity": "Actividad para"
+  },
+  "progress": {
+    "title": "Progreso", "subtitle": "Tu crecimiento a lo largo del tiempo",
+    "weekly": "Resumen Semanal", "xpGrowth": "Crecimiento XP",
+    "habitTrends": "Tendencias de Hábitos", "bestStreak": "Mejor Racha",
+    "totalXP": "XP Total", "level": "Nivel", "achievements": "Logros"
+  },
+  "profile": {
+    "title": "Mi Perfil", "level": "Nivel", "hero": "Héroe",
+    "achievements": "Logros", "settings": "Configuración",
+    "language": "Idioma", "theme": "Tema", "notifications": "Notificaciones",
+    "editProfile": "Editar Perfil", "joinedOn": "Se unió el",
+    "totalHabits": "Hábitos Totales", "totalTasks": "Tareas Totales"
+  },
+  "reminders": {
+    "title": "Recordatorios", "new": "Nuevo Recordatorio", "time": "Hora", "date": "Fecha",
+    "message": "Mensaje", "save": "Guardar Recordatorio", "delete": "Eliminar",
+    "enabled": "Activado", "disabled": "Desactivado", "noReminders": "Sin recordatorios"
+  },
+  "gamification": {
+    "levelUp": "¡Subiste de Nivel! 🎉", "xpGained": "+{{xp}} XP", "newBadge": "¡Nueva Insignia! 🏆",
+    "streakMilestone": "🔥 ¡Racha de {{days}} días!", "keepItUp": "¡Sigue así!",
+    "level": "Nivel {{level}}", "nextLevel": "{{xp}} XP para el próximo nivel"
+  },
+  "common": {
+    "save": "Guardar", "cancel": "Cancelar", "delete": "Eliminar", "edit": "Editar",
+    "loading": "Cargando...", "error": "Algo salió mal", "success": "¡Listo!",
+    "confirm": "Confirmar", "close": "Cerrar", "search": "Buscar", "filter": "Filtrar",
+    "darkMode": "Modo Oscuro", "lightMode": "Modo Claro", "language": "Idioma",
+    "noData": "Sin datos aún", "comingSoon": "Próximamente"
+  },
+  "suggestions": {
+    "missedWorkout": "Perdiste tu entrenamiento 2 días seguidos — ¡prueba una sesión de 10 min!",
+    "dueSoon": "⏰ {{count}} tareas vencen pronto. ¡Hazlas ahora!",
+    "streakWarning": "⚠️ ¡No rompas tu racha de {{days}} días! Completa tus hábitos hoy.",
+    "greatJob": "🌟 ¡Increíble! ¡Completaste todos los hábitos hoy!",
+    "morningTip": "🌅 ¡Buenos días! Empieza fuerte con tu hábito principal.",
+    "eveningTip": "🌙 Revisión nocturna: 3 tareas quedan para hoy. ¡Tú puedes!"
+  }
+}

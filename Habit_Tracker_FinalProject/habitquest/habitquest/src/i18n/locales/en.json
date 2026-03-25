@@ -1,0 +1,93 @@
+{
+  "app": { "name": "HabitQuest", "tagline": "Level Up Your Life" },
+  "nav": {
+    "dashboard": "Dashboard", "habits": "Habits", "tasks": "Tasks",
+    "history": "History", "calendar": "Calendar", "progress": "Progress", "profile": "Profile"
+  },
+  "auth": {
+    "login": "Sign In", "register": "Create Account", "email": "Email", "password": "Password",
+    "name": "Full Name", "noAccount": "Don't have an account?", "hasAccount": "Already have an account?",
+    "signUp": "Sign Up", "signIn": "Sign In", "welcome": "Welcome back, Hero!",
+    "createAccount": "Start your quest today", "logout": "Sign Out",
+    "loginSuccess": "Welcome back! 🎉", "registerSuccess": "Account created! Let's begin! 🚀"
+  },
+  "dashboard": {
+    "welcome": "Welcome back", "hero": "Hero",
+    "todayProgress": "Today's Progress", "stats": "Your Stats",
+    "xp": "XP", "streak": "Streak", "completed": "Completed", "completionRate": "Habit Rate",
+    "days": "days", "tasks": "tasks", "keepGoing": "Keep going!",
+    "quickActions": "Quick Actions", "recentActivity": "Recent Activity",
+    "motivational": "You're on a roll! Keep up the amazing work! 💪"
+  },
+  "habits": {
+    "title": "My Habits", "subtitle": "Build powerful daily routines",
+    "new": "New Habit", "complete": "Mark Done", "completed": "Done Today!",
+    "streak": "streak", "noHabits": "No habits yet. Create your first one!",
+    "name": "Habit Name", "description": "Description (optional)",
+    "frequency": "Frequency", "daily": "Daily", "weekly": "Weekly",
+    "color": "Color", "icon": "Icon", "create": "Create Habit",
+    "completedToday": "Completed today!", "missedYesterday": "Missed yesterday",
+    "suggestion": "💡 Tip: Start small! Consistency beats intensity.",
+    "modal": { "title": "Create New Habit", "edit": "Edit Habit" }
+  },
+  "tasks": {
+    "title": "My Tasks", "subtitle": "Stay on top of everything",
+    "new": "New Task", "complete": "Complete", "completed": "Completed",
+    "overdue": "Overdue", "dueToday": "Due Today", "upcoming": "Upcoming",
+    "noTasks": "No tasks here. You're all caught up! 🎉",
+    "name": "Task Title", "description": "Description", "dueDate": "Due Date",
+    "priority": "Priority", "high": "High", "medium": "Medium", "low": "Low",
+    "create": "Add Task", "all": "All", "pending": "Pending",
+    "modal": { "title": "Add New Task", "edit": "Edit Task" }
+  },
+  "history": {
+    "title": "Task History", "subtitle": "All your completed victories",
+    "filter": "Filter", "today": "Today", "week": "This Week",
+    "month": "This Month", "all": "All Time", "search": "Search tasks...",
+    "empty": "No completed tasks found", "completedOn": "Completed on"
+  },
+  "calendar": {
+    "title": "Calendar View", "subtitle": "Your journey at a glance",
+    "prev": "Previous", "next": "Next", "today": "Today",
+    "legend": "Legend", "completed": "Completed", "missed": "Missed", "partial": "Partial",
+    "noActivity": "No activity on this day", "activity": "Activity for"
+  },
+  "progress": {
+    "title": "Progress", "subtitle": "Your growth over time",
+    "weekly": "Weekly Overview", "xpGrowth": "XP Growth",
+    "habitTrends": "Habit Trends", "bestStreak": "Best Streak",
+    "totalXP": "Total XP", "level": "Level", "achievements": "Achievements"
+  },
+  "profile": {
+    "title": "My Profile", "level": "Level", "hero": "Hero",
+    "achievements": "Achievements", "settings": "Settings",
+    "language": "Language", "theme": "Theme", "notifications": "Notifications",
+    "editProfile": "Edit Profile", "joinedOn": "Joined",
+    "totalHabits": "Total Habits", "totalTasks": "Total Tasks"
+  },
+  "reminders": {
+    "title": "Reminders", "new": "Set Reminder", "time": "Time", "date": "Date",
+    "message": "Message", "save": "Save Reminder", "delete": "Delete",
+    "enabled": "Enabled", "disabled": "Disabled", "noReminders": "No reminders set"
+  },
+  "gamification": {
+    "levelUp": "Level Up! 🎉", "xpGained": "+{{xp}} XP", "newBadge": "New Badge Unlocked! 🏆",
+    "streakMilestone": "🔥 {{days}}-Day Streak!", "keepItUp": "Keep it up!",
+    "level": "Level {{level}}", "nextLevel": "{{xp}} XP to next level"
+  },
+  "common": {
+    "save": "Save", "cancel": "Cancel", "delete": "Delete", "edit": "Edit",
+    "loading": "Loading...", "error": "Something went wrong", "success": "Done!",
+    "confirm": "Confirm", "close": "Close", "search": "Search", "filter": "Filter",
+    "darkMode": "Dark Mode", "lightMode": "Light Mode", "language": "Language",
+    "noData": "No data yet", "comingSoon": "Coming Soon"
+  },
+  "suggestions": {
+    "missedWorkout": "You missed your workout 2 days in a row — try a shorter 10-min session!",
+    "dueSoon": "⏰ {{count}} tasks are due soon. Tackle them now!",
+    "streakWarning": "⚠️ Don't break your {{days}}-day streak! Complete your habits today.",
+    "greatJob": "🌟 Amazing! You've completed all habits today!",
+    "morningTip": "🌅 Good morning! Start your day strong with your top habit.",
+    "eveningTip": "🌙 Evening check: 3 tasks left for today. You got this!"
+  }
+}
